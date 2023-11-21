@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is amin movahedi ===================================================================================================================================== data scientist, socket programmer --------------------------------- * 🌍 I'm based in kerman * ✉️ You can contact me at [amin1384movahedi@zohomail.com](mailto:amin1384movahedi@zohomail.com) * 🧠 I'm learning tensorflow and machine learning dealing with imbalanced data * 🤝 I'm open to collaborating on data science project, socket programming, machine learning and deep learning 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is amin movahedi
+=====================================================================================================================================
+
+data scientist, socket programmer
+---------------------------------
+
+*   🌍  I'm based in kerman
+*   ✉️  You can contact me at [amin1384movahedi@zohomail.com](mailto:amin1384movahedi@zohomail.com)
+*   🧠  I'm learning tensorflow and machine learning dealing with imbalanced data
+*   🤝  I'm open to collaborating on data science project, socket programming, machine learning and deep learning
 
 ### Skills
 <p align="left">
