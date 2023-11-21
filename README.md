@@ -25,8 +25,8 @@ data scientist, socket programmer
 <p align="left">
     <a href="https://discord.com/users/amin84movahedi#2168" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://assets-global.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://assets-global.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" /> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="32" height="32" /> </picture>
     </a>
     <a href="https://www.github.com/Amin1384Movahedi" target="_blank" rel="noreferrer">
         <picture>
